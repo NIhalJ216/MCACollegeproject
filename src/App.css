@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+body {
+  background-color: #c6ffdb !important;
+  font-family: "Libre Franklin, sans-serif";
+}
+
+.paperStyle {
+  background-color: #86ecab !important;
+  /* opacity: 0.8; */
+}
+
+.buttonStyle {
+  background-color: #4ad18f !important;
+  color: black !important;
+  font-weight: 780 !important;
+}
+
+.appbarStyle {
+  background-color: #4ad18f !important;
+  color: black !important;
+  font-weight: 780 !important;
+}
+
+.datepicker-input {
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 36px;
+  font-family: "Libre Franklin, sans-serif" !important;
+  cursor: pointer;
+  box-sizing: border-box;
+}
